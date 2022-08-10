@@ -16,7 +16,7 @@ Modify `"list.pdf"` as needed. This should be the address to the SEC PDF file st
 txt <- lapply(as.list(pdf_text("list.pdf")), as.character)
 ```
 
-The code generates one `.xlsx `and one `.csv` file containing the data from the PDF in a tabular format:
+`13F-PDFtoCSV.R` generates one `.xlsx `and one `.csv` file containing the data from the PDF in a tabular format:
 ```
 write.xlsx(df, "13F securities list.xlsx")
 write.csv(df, "13F securities list.csv")
