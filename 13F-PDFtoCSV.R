@@ -4,7 +4,7 @@ library(openxlsx)
 
 #get data from the PDF document
 #returns a list of character vectors
-txt <- lapply(as.list(pdf_text("list.pdf")), as.character)
+txt <- lapply(as.list(pdf_text("13flist2022q2.pdf")), as.character)
 
 #insert line breaks where the text string has "\n"
 chr <- lapply(txt, function(.x){ 
@@ -63,5 +63,5 @@ df$`ISSUER DESCRIPTION` <- gsub("@", " ", df$`ISSUER DESCRIPTION`)
 df$`ISSUER NAME` <- gsub("@", " ", df$`ISSUER NAME`)
 
 #save to XLS & csv
-write.xlsx(df, "13F securities list.xlsx")
-write.csv(df, "13F securities list.csv")
+write.xlsx(df, "13F securities list 2Q2022.xlsx")
+write.csv(df, "13F securities list 2Q2022.csv")
