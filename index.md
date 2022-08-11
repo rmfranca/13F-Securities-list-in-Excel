@@ -8,10 +8,10 @@
 ### About the file
 <p>Although I had put an effort in making sure everything is ok, please use with caution.</p>
 
-<a href="13F securities list 2Q2022.xlsx">Download 13F in Excel - 2022Q2</a>
+<a href="13Flist2Q2022.xlsx">Download 13F in Excel - 2022Q2</a>
 
 #### You can buy me a coffee if you think the file was helpful
 <img src="/13F-Securities-list-in-Excel/qrcode.png" alt="buy me a coffee">
 <p>0xd1176deeca2ddd5181b74d11998908f7a1e6b908 - Ethereum ERC20</p>
 
-![Book logo](/13F-Securities-list-in-Excel/qrcode.png)
+![Book logo](/qrcode.png)
