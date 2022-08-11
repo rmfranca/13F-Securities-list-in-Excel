@@ -1,7 +1,5 @@
 # 13F-Securities-list-in-Excel
 
-<b>Download here:</b> [13Flist2Q2022.xlsx](/13Flist2Q2022.xlsx)
-
 ## Description
 This R code generates an .xlsx file containing the Section 13(f) Securities as published by the SEC in a PDF document [here](https://www.sec.gov/divisions/investment/13flists).
 
