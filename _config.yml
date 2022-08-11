@@ -1,3 +1,7 @@
 theme: jekyll-theme-cayman
 title: Section 13F Securities list in Excel
 description: In this page you can download an .xlsx version of the Section 13(f) Securities list as published by the SEC.
+
+ show_downloads: true 
+    github:  
+      zip_url: << https://github.com/rmfranca/13F-Securities-list-in-Excel/blob/main/13Flist2Q2022.xlsx >>
