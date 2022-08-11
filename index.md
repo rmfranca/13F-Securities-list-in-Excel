@@ -11,5 +11,5 @@
 <a href="13F securities list 2Q2022.xlsx">Download 13F in Excel - 2022Q2</a>
 
 #### You can buy me a coffee if you think the file was helpful
-<img src="qrcode.png" alt="buy me a coffee">
+<img src="https://github.com/rmfranca/13F-Securities-list-in-Excel/qrcode.png" alt="buy me a coffee">
 <p>0xd1176deeca2ddd5181b74d11998908f7a1e6b908 - Ethereum ERC20</p>
