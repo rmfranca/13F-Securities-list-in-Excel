@@ -63,5 +63,5 @@ df$`ISSUER DESCRIPTION` <- gsub("@", " ", df$`ISSUER DESCRIPTION`)
 df$`ISSUER NAME` <- gsub("@", " ", df$`ISSUER NAME`)
 
 #save to XLS & csv
-write.xlsx(df, "13F securities list 2Q2022.xlsx")
-write.csv(df, "13F securities list 2Q2022.csv")
+write.xlsx(df, "13Flist2Q2022.xlsx")
+write.csv(df, "13Flist2Q2022.csv")
