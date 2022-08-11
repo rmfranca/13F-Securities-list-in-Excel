@@ -8,7 +8,7 @@
 ### About the file
 <p>Although I had put an effort in making sure everything is ok, please use with caution.</p>
 
-<b>Download here:</b> <a href="13Flist2Q2022.xlsx">13F in Excel - 2022Q2</a>
+<b>Download here:</b> <a href="13Flist2Q2022.xlsx">13F in Excel - 2022Q2.xlsx</a>
 
 #### You can buy me a coffee if you think the file was helpful
 <img src="/13F-Securities-list-in-Excel/qrcode.png" alt="buy me a coffee">
